@@ -1,2 +1,6 @@
-email :
-gitID :
+email :yealin9399@gmail.com	
+gitID :yealin9399@gamil.com
+
+
+
+
